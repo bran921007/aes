@@ -1,0 +1,5 @@
+Email,"Is Valid Pattern","Is MX Record Exist"
+jwel.cse@gmail.com,Yes,Yes
+test@test.test,Yes,No
+jwel2.cse@gmail.com,Yes,Yes
+jwel2.cse@gmail.net,Yes,Yes

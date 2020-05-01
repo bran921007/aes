@@ -1,0 +1,5 @@
+URL,"HTTP Code",Status,"Total Time (sec)","Name Lookup Time (sec)","Connect Time (sec)","Download Speed Time","Check Status Date"
+http://www.google.com/xyz,404,"Not Found",0.358,0,0,4368,"2016-01-15 17:40:45"
+http://www.google.com,302,Found,3.635,0,3.167,73,"2016-01-15 17:40:45"
+http://xeroneit.net,0,"Not Registered",30.998,0,0,0,"2016-01-15 17:41:03"
+http://xeroneit.net/zyz,404,"Not Found",1.887,0,0,169,"2016-01-15 17:41:34"

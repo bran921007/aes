@@ -1,0 +1,2 @@
+URL,"HTTP Code",Status,"Total Time (sec)","Name Lookup Time (sec)","Connect Time (sec)","Download Speed Time","Check Status Date"
+http://stackoverflow.com/questions/10227879/php-curl-http-code-return-0,200,OK,3.183,0.047,0.094,29133,"2016-01-14 12:57:50"
